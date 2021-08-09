@@ -3,4 +3,5 @@ This project was created for a scientific work on the so called brachistochrone 
 - System with friction
 - System with rotation
 - System with friction and rotation
+
 The simulations are written in python with the main libraries pymunk and pygamen used and to create a GUI Tkinter was used.
