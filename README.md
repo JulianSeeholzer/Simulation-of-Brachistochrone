@@ -3,4 +3,6 @@ This project was created for a scientific work on the so called brachistochrone 
 - System with friction
 - System with rotation
 - System with friction and rotation
+
+
 The simulations are written in python with the main libraries pymunk and pygame used and to create a GUI Tkinter was used. The simulation for a system with friction like forces was used to "prove" that the cycloid no longer is the fastest path of descent for a system of this kind.
